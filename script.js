@@ -1,17 +1,17 @@
 // 1. Создайте три переменные. Строки. В Них запишите любые цифровые значения (например как “12”).
 
-let a = 5;
-let b = "12";
-let c = 9;
+// let a = 5;
+// let b = "12";
+// let c = 9;
 
 // 2. Напишите функцию считающую объем. Функция принимает три параметра, перемножает их и возвращает результат.
 
-function multiply(a, b, c) {
-    return +a * +b * +c
-}
+// function multiply(a, b, c) {
+//     return +a * +b * +c
+// }
 
-let result = multiply(a, b , c)
-console.log(result)
+// let result = multiply(a, b , c)
+// console.log(result)
 
 
 // 3. Добавьте в функцию проверку типа параметров
@@ -31,4 +31,22 @@ console.log(result)
 // let result = multiply (a, b , c)
 
 // console.log(result)
+
+// Напиши функцию, которая будет принимать как параметры два числа и возвращать меньшее из них.
+// Результат вызова функции запиши в переменную.
+// Переменную выведи в консоль 
+
+
+// let a = 22;
+// let b = 33;
+
+// function counts(a, b) {
+//     if (a < b) {
+//         return (a)
+//     }
+// }
+
+// console.log(a)
+
+
 
